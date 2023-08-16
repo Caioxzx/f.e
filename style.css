@@ -46,7 +46,7 @@ legend
 #formulario textarea.msg
 {
   position:absolute;
-  background-color:#000000;
+  background-color:#053ffa88;
 }
 #formulario input.btn_submit
 {
@@ -54,5 +54,5 @@ legend
   position:absolute;
   bottom: 0.5em;
   right:10px;
-  background-color:#000000;
+  background-color:#053ffa88;
 }
