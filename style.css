@@ -56,3 +56,9 @@ legend
   right:10px;
   background-color:#053ffa88;
 }
+button{
+    color: black;
+    font-size: 100px;
+    margin-top: auto;
+    align-content: center;
+}
